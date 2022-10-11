@@ -1,7 +1,7 @@
 # workshop-music-5
 YBoost workshop #5 | 12/10/2022
 
-# Streaming plateform
+# PartyMix
 
 ## Objective :
 You are in a night party with your friends. Everybody wants to add his song to the waiting list on the mobile which plays music. Create a central platform where everybody can add song no matter of the streaming platform. 
