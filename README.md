@@ -44,3 +44,11 @@ Create a good display for your playlist
 
 ## What is an API ?
 An API is an interface that allows you to retrieve data from a website. API are set up by developers to allow other developers to use their data and make applications with it.
+
+## ORGANISATION PROPOSITION
+
+Dev 1 (easy) : Get songs from minimum 3 streaming platforms and create local playlists on it  
+Dev 2 (medium) : Create all the differents interface and connection with the differents platforms  
+Dev 3 (medium) : Use websockets to communicate with an other device. Try to send basical text and after musical links  
+Dev 4 (medium) : Create rooms and invitation system to connect multiple devices  
+Dev 5 (hard) : Create a system which translate all requests from different streaming platforms into one and create a common playlist  
